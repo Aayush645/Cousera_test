@@ -1,0 +1,48 @@
+ .navbar-link{
+      padding-top: 10px;
+    }
+
+    .navbar-collapse{
+      
+      padding-top: 10px;
+      
+    }
+
+    #brand{
+      font-size: 1.5em;
+    }
+    
+    #d{
+      height: 200px;
+    }
+    .navbar-list{
+      color: white;
+    }
+
+    #Menu{
+      padding-top: 20px;
+      margin-bottom: 2.5em;
+    }
+    
+    .container-fluid{
+      background-color: #99ccff;
+    }
+    #title{
+      
+    }
+    #text{
+      padding: 0px 20px 0px 20px;
+    }
+     @media (min-width: 576px)
+    {
+      #content{
+       width:97%;
+      }
+    }
+    
+    @media (max-width: 575px)
+    {
+      #content{
+        width: 70%;
+      }
+    }
